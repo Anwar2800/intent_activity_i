@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity3">
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PROFIL SMK N 1 SAYUNG"
+        android:gravity="center_horizontal"
+        android:textColor="@color/purple_700"
+        android:textSize="30sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MEMILIKI 5 KOMPETISI KEAHLIAN"
+        android:gravity="center_horizontal"
+        android:textColor="@color/teal_200"
+        android:textSize="30sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Teknik Otomotif"
+        android:gravity="center_horizontal"
+        android:textColor="@color/teal_200"
+        android:textSize="30sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TL"
+        android:gravity="center_horizontal"
+        android:textColor="@color/teal_200"
+        android:textSize="30sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PPLG"
+        android:gravity="center_horizontal"
+        android:textColor="@color/teal_200"
+        android:textSize="30sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TATABUSANA"
+        android:gravity="center_horizontal"
+        android:textColor="@color/teal_200"
+        android:textSize="30dp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KULINER"
+        android:gravity="center_horizontal"
+        android:textColor="@color/teal_200"
+        android:textSize="30dp"
+        android:textStyle="italic"/>
+</LinearLayout>
